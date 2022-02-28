@@ -1,3 +1,5 @@
-MIT 6.824 课程学习记录
+MIT 6.824 分布式系统课程学习
 
-完整笔记：https://blog.csdn.net/qq_42397248/article/details/100064450
+大三下做的
+
+在CSDN论坛记的笔记：https://blog.csdn.net/qq_42397248/article/details/100064450
